@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cansu</h1>
 <h3 align="center">Backend developer from Turkiye</h3>
 
-<h3 align="left">About Me</h3>
+###About Me
 
 - 😊 I'm currently 4th grade software engineering student at Karadeniz Technical University
 
