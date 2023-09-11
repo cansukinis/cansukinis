@@ -2,10 +2,11 @@
 <h1 align="center">Hi, I'm Cansu <img align="center" width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></h1>
 <h3 align="center">Backend developer from Turkiye</h3>
 
+
 ## About Me
 <img align="right" alt="Coding" width="150" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
-- 😊 I'm currently _4th grade_ software engineering student at Karadeniz Technical University
+- 😊 I'm _4th grade_ software engineering student at Karadeniz Technical University
 
 - 🌱 I’m currently learning **_Spring Boot_**
 
@@ -21,7 +22,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cansukinis&show_icons=true&locale=en&layout=compact" alt="cansukinis" /></p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=cansukinis&label=Profile%20views&color=0e75b6&style=flat" alt="cansukinis" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,3 +31,5 @@
 <a href="https://medium.com/@cansukinis742" target="blank"><img align="center" src="https://camo.githubusercontent.com/10dcef53ec44785048c24422cefb355b86831eac5966559864cf37366fb1290e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d2532333132313030452e7376673f267374796c653d666f722d737175617265266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="cansukinis" height="20" width="70" /></a>
 
 <a href="https://www.facebook.com/cansukinis/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/1280px-Facebook_New_Logo_%282015%29.svg.png" alt="cansukinis" height="20" width="65" /></a>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=cansukinis&label=Profile%20views&color=0e75b6&style=flat" alt="cansukinis" /> </p>
