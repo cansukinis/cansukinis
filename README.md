@@ -1,5 +1,5 @@
 <img align="right" alt="Coding" width="300" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
-<h1 align="center">Hi, I'm Cansu</h1> <img align="left" alt="Coding" width="300" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
+<h1 align="center">Hi, I'm Cansu</h1> <img align="left" alt="Coding" width="40" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 <h3 align="center">Backend developer from Turkiye</h3>
 
 ## About Me
