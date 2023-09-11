@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/cansukinis)
 
-- <img align="right" alt="Coding" width="20" src="https://raw.githubusercontent.com/Gapur/Gapur/main/assets/message.gif"> Ask me about anything, I'm happy to help!
+- ![deneme1](https://raw.githubusercontent.com/Gapur/Gapur/main/assets/message.gif) Ask me about anything, I'm happy to help!
 
 - 📫 How to reach me: **cansukinis742@gmail.com**
 
