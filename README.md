@@ -1,4 +1,4 @@
-(https://github.com/cansukinis/cansukinis/blob/main/Cansu%20K%C4%B1n%C4%B1%C5%9F%20(3).png)
+![](https://github.com/cansukinis/cansukinis/blob/main/Cansu%20K%C4%B1n%C4%B1%C5%9F%20(3).png)
 <h1 align="center">Hi, I'm Cansu</h1> <img align="right" width="30" src="">
 <h3 align="center">Backend developer from Turkiye</h3>
 
