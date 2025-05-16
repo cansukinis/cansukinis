@@ -6,9 +6,9 @@
 ## About Me
 <img align="right" alt="Coding" width="150" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
-- 😊 I'm _4th grade_ software engineering student at Karadeniz Technical University
+- 😊 I'm software engineer who graduated from Karadeniz Technical University
 
-- 🌱 I’m currently learning **_Spring Boot_**
+- 🌱 I’m currently learning **_Nodejs_**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/cansukinis)
 
